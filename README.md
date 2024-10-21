@@ -5,3 +5,6 @@
 3. [Lab 03](https://github.com/goliharini19/AIML-2025/blob/main/Lab03.ipynb):Implement AI Game Strategy using MiniMax and Alpha-Beta Search Algorithms
 4. [Lab 04](https://github.com/goliharini19/AIML-2025/blob/main/Lab%2004.ipynb):Implement Linear Regression using Boston Housing Data
 5. [Lab 05](https://github.com/goliharini19/AIML-2025/blob/main/Lab_05.ipynb): Implement Logistic Regression using Titanic Ship Data
+6. [Lab 06](https://github.com/goliharini19/AIML-2025/blob/main/Lab%2006.ipynb):Implement K-Neighbour classification using classified manufacturing Dataset
+7. [Lab 07](https://github.com/goliharini19/AIML-2025/blob/main/Lab_07.ipynb):Implement Support Vector Machine using Breast Cancer Data
+8. [Lab 08](https://github.com/goliharini19/AIML-2025/blob/main/Lab08.ipynb):Implement Decision Tree Classifier using LendingbClub Data
