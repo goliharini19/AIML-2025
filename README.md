@@ -8,3 +8,4 @@
 6. [Lab 06](https://github.com/goliharini19/AIML-2025/blob/main/Lab%2006.ipynb):Implement K-Neighbour classification using classified manufacturing Dataset
 7. [Lab 07](https://github.com/goliharini19/AIML-2025/blob/main/Lab_07.ipynb):Implement Support Vector Machine using Breast Cancer Data
 8. [Lab 08](https://github.com/goliharini19/AIML-2025/blob/main/Lab08.ipynb):Implement Decision Tree Classifier using LendingbClub Data
+9. [Lab 09](https://github.com/goliharini19/AIML-2025/blob/main/Lab%2009.ipynb):Implement Random Forest Ensemble Classifier using Lending Club Data
